@@ -1,2 +1,2 @@
 # nodejs-crud-application
-CRUD appication using nodejs
+CRUD application using nodejs
